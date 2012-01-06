@@ -69,3 +69,4 @@ Patches and Suggestions
 - Ori Livneh
 - Jason Emerick
 - Bryan Helmig
+- Jonas Obrist
